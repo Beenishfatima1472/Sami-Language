@@ -1,0 +1,96 @@
+{
+  "generated": "2026-10-03T06:51:48.904354",
+  "token_counts_by_language": {
+    "Kildin Sami": 1338,
+    "Ume Sami": 619,
+    "Southern Sami": 1443669,
+    "Northern Sami": 20904042,
+    "Lule Sami": 752182,
+    "Inari Sami": 1047198
+  },
+  "file_counts_by_language": {
+    "Kildin Sami": 2,
+    "Ume Sami": 2,
+    "Southern Sami": 2335,
+    "Northern Sami": 13465,
+    "Lule Sami": 1786,
+    "Inari Sami": 5746
+  },
+  "north_to_kildin_ratio": 15623.3,
+  "languages_absent_from_smugri4": [
+    "Skolt Sami (sms)",
+    "Pite Sami (sje)"
+  ],
+  "saami_web_corpus": {
+    "source": "ltg/saami-web (Hugging Face)",
+    "total_rows_original": 33064,
+    "total_rows_after_chunking": 41951,
+    "long_doc_sources_examples": [
+      "https://giellatekno.uit.no/turi/msb/an_text/noun_alph.html",
+      "https://sametinget.no/_f/p1/i11201509-6765-43d6-9653-8505ffee85da/protokoll-eldreradet-002-24.pdf",
+      "https://sametinget.no/_f/p1/i3e248f5b-2584-4c69-a743-da884110c6ed/sametingets-arsmelding-2017-nordsamisk.pdf",
+      "http://ihpil.blogspot.com/2007/",
+      "http://samas.no/se/node/522"
+    ]
+  },
+  "subtitle_corpus_language_audit": {
+    "source": "Zenodo record 14176353 (Northern Sami Subtitle Corpus)",
+    "total_sentences": 913,
+    "language_breakdown": {
+      "sme_Latn": 803,
+      "smn_Latn": 76,
+      "fin_Latn": 14,
+      "swe_Latn": 2,
+      "eng_Latn": 2,
+      "ekk_Latn": 2,
+      "hun_Latn": 2,
+      "fkv_Latn": 1,
+      "pap_Latn": 1,
+      "spa_Latn": 1,
+      "ces_Latn": 1,
+      "krl_Latn": 1,
+      "lvs_Latn": 1,
+      "smj_Latn": 1,
+      "deu_Latn": 1,
+      "por_Latn": 1,
+      "gsw_Latn": 1,
+      "tur_Latn": 1,
+      "gaz_Latn": 1
+    },
+    "pct_confirmed_north_sami": 88.0,
+    "rare_lang_token_stats": {
+      "count": {
+        "false": 893.0,
+        "true": 20.0
+      },
+      "mean": {
+        "false": 8.790593505039194,
+        "true": 2.65
+      },
+      "std": {
+        "false": 3.6111190062019936,
+        "true": 2.2774639635487444
+      },
+      "min": {
+        "false": 1.0,
+        "true": 1.0
+      },
+      "25%": {
+        "false": 6.0,
+        "true": 1.0
+      },
+      "50%": {
+        "false": 8.0,
+        "true": 1.5
+      },
+      "75%": {
+        "false": 11.0,
+        "true": 4.0
+      },
+      "max": {
+        "false": 21.0,
+        "true": 9.0
+      }
+    }
+  }
+}
