@@ -1,0 +1,8 @@
+datasets
+huggingface_hub
+pandas
+requests
+fasttext
+numpy
+matplotlib
+anthropic
